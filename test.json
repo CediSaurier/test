@@ -12,7 +12,7 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
+            "name": "MeloNX",
             "bundleIdentifier": "com.example.myapp",
       "marketplaceID": "0123456789",
       "developerName": "Example Developer",
@@ -35,7 +35,7 @@
           "buildVersion": "2",
           "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/591/download",
+                    "downloadURL": "https://rapidshare.io/F5c/MeloNX.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 }
